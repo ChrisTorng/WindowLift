@@ -5,7 +5,7 @@ WindowLift keeps vertically oversized Windows dialogs usable. It adjusts only a 
 ## Requirements
 
 - Windows 10 or Windows 11
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 
 ## Run
 
